@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+<img align="left" alt="esyepesv GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=esyepesv&show_icons=true&theme=prussian&include_all_commits=true&hide_border=true&count_private=true"> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esyepesv&langs_count=10&show_icons=true&theme=prussian&layout=compact&hide_border=true&count_private=true)
+
+
+<!--START_SECTION:waka-->
+
+
 <!--
 **esyepesv/esyepesv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
